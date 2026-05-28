@@ -85,7 +85,7 @@ python deliverable_2.py
 
 ===== RESULT =====
 - Total Score: 95.00
-- Average Score: 31.67
+- Average Score: 0.95
 - Status: Passed
 - Qualified for Award: Yes
 - Remark: Congratulations!
